@@ -1,0 +1,16 @@
+nav ul a {
+	text-decoration: none;
+	color: black; 
+	display: inline-block;
+	margin-left: 1em;
+}
+
+nav ul a:active {
+	font-size: 3em;
+	padding: 0 2em 0 2em;
+}
+
+nav ul a:hover {
+	color: red; 
+	background-color: grey;
+}
