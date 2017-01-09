@@ -1,0 +1,49 @@
+#a1 {
+	background-color: red;
+	font-size: 1em;
+	font-color: white;
+	line-height: 2em;
+	border: 1px solid black;
+	border-radius: 10%;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#a2 {
+	background-color: yellow;
+	font-size: 2em;
+	font-color: black;
+	line-height: 1em;
+	border: 2px dotted green;
+	border-radius: 12%;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+#a3 {
+	background-color: orange;
+	font-size: 2.5em;
+	font-color: teal;
+	line-height: 1.5em;
+	border: 3px dashed blue;
+	border-radius: 23px;
+	font-family: 'Arima Madurai', cursive;
+}
+
+#a4 {
+	background-color: blue;
+	font-size: 3em;
+	font-color: yellow;
+	line-height: 2em;
+	border: 4px groove purple;
+	border-radius: 11%;
+	font-family: 'Lemonada', cursive;
+}
+
+#a5 {
+	background-color: purple;
+	font-size: 3.5em;
+	font-color: white;
+	line-height: .5em;
+	border: 5px solid magenta;
+	border-radius: 50%;
+	font-family:'Montserrat', sans-serif;
+}
