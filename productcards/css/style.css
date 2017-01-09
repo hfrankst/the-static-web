@@ -1,0 +1,11 @@
+body {
+	border: 1px solid lightblue;
+}
+
+article {
+	width: 30%;
+}
+
+title, article img {
+	text-align: center;
+}
